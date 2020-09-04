@@ -10,3 +10,7 @@ file named: (semantic_pt2.csv). This file will also be found in the “News” d
 word “Canada”. Once calculated, this result is also displayed on the console. Finally, I have calculated and found that the news article having the highest relative 
 frequency is document named: file562.txt. Once calculated, it will be displayed in the console as well. Also, the contents of this news article will be displayed on the 
 console.
+
+## Target Keywords
+
+“Canada”, “University”, “Dalhousie University”, “Halifax”, “Business”
