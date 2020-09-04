@@ -1,0 +1,3 @@
+Title:Encryption Flaws Leave Millions of Toyota Kia and Hyundai Cars Vulnerable to Key Cloning
+Description:Millions of cars with radioenabled keys made by Toyota Hyundai and Kia may be vulnerable to hijacking thanks to a flaw in their encryption implementation Wired reported this week citing the results of a KU Leuven in Belgium and University of Birmingham s
+Content:Millions of cars with radioenabled keys made by Toyota Hyundai and Kia may be vulnerable to hijacking thanks to a flaw in their encryption implementation Wired reported this week citing the results of a KU Leuven in Belgium and University of Birmingham s 2849 chars

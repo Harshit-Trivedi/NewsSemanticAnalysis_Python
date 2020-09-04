@@ -1,0 +1,3 @@
+Title:Harvards octopusinspired soft robot can lift almost anything  The BurnIn
+Description:A team from Harvard University has created a soft robotic arm modeled after an octopus. Its tentaclelike shape and suckers let it pick up almost anything.
+Content:The robotics industry is quickly changing. It is starting to emphasize soft robots that are more adept at general tasks than those suited to perform just one task. No matter how you look at it that evolution makes sense. While soft robots will never be able  2888 chars

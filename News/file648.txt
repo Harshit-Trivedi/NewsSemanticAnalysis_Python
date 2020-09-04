@@ -1,0 +1,5 @@
+Title:NHL Highlights  Maple Leafs vs. Kings  Mar. 5 2020  SPORTSNET
+Description:NHL Highlights  Maple Leafs vs. Kings  Mar. 5 2020 SPORTSNET Game 68 Review Los Angeles Kings 1 vs. Toronto Maple Leafs 0 SO Maple Leafs Hot Stove Maple Leafs Shanahan unwavering in his expectations even amid tumult Sportsnet.ca The Maple Leafs firs
+Content:getSimpleStringdata.title
+getSimpleStringdata.description
+getSimpleStringdata.videoCountText
